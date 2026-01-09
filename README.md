@@ -26,11 +26,3 @@ It is intended as a **learning and portfolio project** for Linux system administ
 
 ---
 
-## 📂 Project Structure
-bash-systemd-service/
-├── dimoni.sh # Bash script managed by systemd
-├── dimoni.service # systemd unit file
-├── docs/
-│ └── EL_DIMONI.pdf # Project documentation (optional)
-└── README.md
-
